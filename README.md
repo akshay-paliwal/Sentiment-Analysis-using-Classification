@@ -23,7 +23,7 @@ Installed [Anaconda](https://www.anaconda.com/products/individual), a pre-packag
 
 ## Project Architecture
 
-![Classification](https://user-images.githubusercontent.com/50728879/84190158-161c2580-aab4-11ea-9dff-5ccd43dd511d.jpeg)
+![Classification (1)](https://user-images.githubusercontent.com/50728879/84191009-79f31e00-aab5-11ea-8294-0d87509fc71a.jpeg)
 
 
 ## Code
