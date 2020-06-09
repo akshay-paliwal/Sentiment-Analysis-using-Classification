@@ -21,6 +21,11 @@ Installed [Anaconda](https://www.anaconda.com/products/individual), a pre-packag
 
 ```!pip install turicreate ```
 
+## Project Architecture
+
+![Classification](https://user-images.githubusercontent.com/50728879/84190158-161c2580-aab4-11ea-9dff-5ccd43dd511d.jpeg)
+
+
 ## Code
 The code contains the following parts-
 * ` Part 1` Importing the required modules and loading the data set.
